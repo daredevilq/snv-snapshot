@@ -70,6 +70,6 @@ Feel free to browse the code, raise issues, or reach out if you have questions.
 ## 👥 Authors & Acknowledgements
 | GitHub Handle | Name | Role |
 |---------------|------|------|
-| **@daredevilq** | Piotr Śmiałek | full-stack |
-| **@tomek** | Tomasz Furgała |  full-stack|
-| **@wiktor** | Wiktor Dybalski | full-stack|
+| [@daredevilq](https://github.com/daredevilq)| Piotr Śmiałek | full-stack |
+| [@TommyFurgi](https://github.com/TommyFurgi) | Tomasz Furgała |  full-stack|
+| [@WiktorDybalski](https://github.com/WiktorDybalski)| Wiktor Dybalski | full-stack|
