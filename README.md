@@ -26,13 +26,21 @@ A web application for visualizing user interactions from social media platforms 
 
 ---
 
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/4c27ede3-2f2c-4523-b3a8-8b546452f29f
+
+
+---
+
+
 ## 🛠️ Requirements
 
 - Docker and Docker Compose installed
 - Docker Engine running in the background
 
----
 
+---
 ## 🚀 Running the Application
 
 Go to the project root directory:
